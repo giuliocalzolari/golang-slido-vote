@@ -4,13 +4,13 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-    "net/http"
-    "net/url"
-    "os"
-    "time"
-    "bytes"
-    "flag"
-    "github.com/alexcesaro/log/stdlog"
+	"net/http"
+	"net/url"
+	"os"
+	"time"
+	"bytes"
+	"flag"
+	"github.com/alexcesaro/log/stdlog"
 )
 
 
