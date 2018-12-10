@@ -1,6 +1,6 @@
 language: go
 go:
-- 1.9
+- master
 sudo: false
 after_success:
 - run goreleaser
